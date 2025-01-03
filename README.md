@@ -16,4 +16,5 @@ This repository contains my custom tmux configuration file (`.tmux.conf`). It in
 ## Installation
 
 ```bash
-wget -P ~ https://github.com/a0ffis/tmux-config/raw/main/.tmux.conf
+1. git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
+2. wget -P ~ https://github.com/a0ffis/tmux-config/raw/main/.tmux.conf
