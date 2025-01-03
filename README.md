@@ -13,8 +13,11 @@ This repository contains my custom tmux configuration file (`.tmux.conf`). It in
 - **Session Management**: Automatically save and restore tmux sessions with `tmux-resurrect` and `tmux-continuum`.
 - **Custom Status Bar**: Beautifully styled status bar with session info and IP address using the [catppuccin theme](https://github.com/catppuccin).
   
-## Installation
+## Installation Steps:
 
 ```bash
-1. git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
-2. wget -P ~ https://github.com/a0ffis/tmux-config/raw/main/.tmux.conf
+git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
+```
+```bash
+wget -P ~ https://github.com/a0ffis/tmux-config/raw/main/.tmux.conf
+```
